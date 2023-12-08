@@ -57,7 +57,7 @@ async function sendSMS(recipientNo, atendeeName) {
     // Log the response or handle it as needed
     console.log("SMS API Response:", response.data);
 
-    // You might want to return the response or handle it in some way
+    // Return the response
     return response.data;
   } catch (error) {
     // Log and handle errors
@@ -66,6 +66,7 @@ async function sendSMS(recipientNo, atendeeName) {
   }
 }
 async function callSendSMS(contactNo, name, res) {
+  // Api call to send sms
   const smsResponse = await sendSMS(contactNo, name);
   if (smsResponse.status === "success") {
     return res.json({
@@ -129,7 +130,7 @@ app.get("/user/list-download", async (req, res) => {
   }
 });
 
-// Update attendance
+// Mark the attendance
 app.post("/user/mark/:contactNo", async (req, res) => {
   try {
     const contactNo = req.params.contactNo;
