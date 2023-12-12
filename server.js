@@ -3,6 +3,7 @@ const fs = require("fs/promises");
 const path = require("path");
 const createCsvWriter = require("csv-writer").createObjectCsvWriter;
 const axios = require("axios");
+const cors = require("cors");
 const app = express();
 
 // Server configuration
@@ -11,6 +12,11 @@ const attendeesFile = path.join(__dirname, "data", "attendees.json");
 
 // Middleware to parse JSON in request body
 app.use(express.json());
+// Middleware to enable CORS
+const corsOptions = {
+  origin: ["https://www.jesa.lk", "http://localhost:5173"],
+};
+app.use(cors(corsOptions));
 
 // Middleware to load user data
 const loadUserData = async (req, res, next) => {
@@ -32,7 +38,8 @@ async function sendSMS(recipientNo, atendeeName) {
   try {
     // configs for api call
     const apiUrl = "https://dashboard.smsapi.lk/api/v3/sms/send";
-    const apiToken = "41|GuVkuGRBlvf8AhMikKJcgXh8UYqMjPhfpiWARx4P";
+    const apiToken = "";
+    // const apiToken = "41|GuVkuGRBlvf8AhMikKJcgXh8UYqMjPhfpiWARx4P";
     const senderId = "JESA 2023";
     const message = `Hi ${atendeeName}, Welcome to JESA 2023! We are glad to have you onboard. Please enjoy the event!`;
 

@@ -1,5 +1,93 @@
 [
   {
+    "id": "150",
+    "name": "Prof. Nilmini Liyanage",
+    "contactNo": "",
+    "award": "Deans",
+    "category": "FOT",
+    "attended": ""
+  },
+  {
+    "id": "151",
+    "name": "",
+    "contactNo": "",
+    "award": "Deans",
+    "category": "FMSC",
+    "attended": ""
+  },
+  {
+    "id": "152",
+    "name": "",
+    "contactNo": "",
+    "award": "Deans",
+    "category": "FHSS",
+    "attended": ""
+  },
+  {
+    "id": "153",
+    "name": "",
+    "contactNo": "",
+    "award": "Deans",
+    "category": "FAS",
+    "attended": ""
+  },
+  {
+    "id": "154",
+    "name": "",
+    "contactNo": "",
+    "award": "Deans",
+    "category": "FMS",
+    "attended": ""
+  },
+  {
+    "id": "155",
+    "name": "",
+    "contactNo": "",
+    "award": "Deans",
+    "category": "FOE",
+    "attended": ""
+  },
+  {
+    "id": "156",
+    "name": "",
+    "contactNo": "",
+    "award": "Deans",
+    "category": "FAHS",
+    "attended": ""
+  },
+  {
+    "id": "157",
+    "name": "",
+    "contactNo": "",
+    "award": "Deans",
+    "category": "FGS",
+    "attended": ""
+  },
+  {
+    "id": "158",
+    "name": "",
+    "contactNo": "",
+    "award": "Deans",
+    "category": "FDS",
+    "attended": ""
+  },
+  {
+    "id": "159",
+    "name": "",
+    "contactNo": "",
+    "award": "Deans",
+    "category": "FUAB",
+    "attended": ""
+  },
+  {
+    "id": "160",
+    "name": "",
+    "contactNo": "",
+    "award": "Deans",
+    "category": "FOC",
+    "attended": ""
+  },
+  {
     "id": "1",
     "name": "Randi Ushara",
     "contactNo": "+94766632972",
@@ -1192,99 +1280,19 @@
     "attended": ""
   },
   {
-    "id": "150",
-    "name": "Prof. Nilmini Liyanage",
-    "contactNo": "",
-    "award": "Deans",
-    "category": "FOT",
-    "attended": ""
-  },
-  {
-    "id": "151",
-    "name": "",
-    "contactNo": "",
-    "award": "Deans",
-    "category": "FMSC",
-    "attended": ""
-  },
-  {
-    "id": "152",
-    "name": "",
-    "contactNo": "",
-    "award": "Deans",
-    "category": "FHSS",
-    "attended": ""
-  },
-  {
-    "id": "153",
-    "name": "",
-    "contactNo": "",
-    "award": "Deans",
-    "category": "FAS",
-    "attended": ""
-  },
-  {
-    "id": "154",
-    "name": "",
-    "contactNo": "",
-    "award": "Deans",
-    "category": "FMS",
-    "attended": ""
-  },
-  {
-    "id": "155",
-    "name": "",
-    "contactNo": "",
-    "award": "Deans",
-    "category": "FOE",
-    "attended": ""
-  },
-  {
-    "id": "156",
-    "name": "",
-    "contactNo": "",
-    "award": "Deans",
-    "category": "FAHS",
-    "attended": ""
-  },
-  {
-    "id": "157",
-    "name": "",
-    "contactNo": "",
-    "award": "Deans",
-    "category": "FGS",
-    "attended": ""
-  },
-  {
-    "id": "158",
-    "name": "",
-    "contactNo": "",
-    "award": "Deans",
-    "category": "FDS",
-    "attended": ""
-  },
-  {
-    "id": "159",
-    "name": "",
-    "contactNo": "",
-    "award": "Deans",
-    "category": "FUAB",
-    "attended": ""
-  },
-  {
-    "id": "160",
-    "name": "",
-    "contactNo": "",
-    "award": "Deans",
-    "category": "FOC",
-    "attended": ""
-  },
-  {
     "id": "161",
     "name": "Vinura Gallage",
-    "contactNo": "+94766885467",
+    "contactNo": "+94766885466",
     "award": "BESA - FOT",
     "category": "nominee",
     "attended": true
+  },
+  {
+    "name": "Test User",
+    "contactNo": "0766885466",
+    "award": "Deans",
+    "category": "",
+    "attended": true,
+    "id": "162"
   }
 ]
