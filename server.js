@@ -9,6 +9,7 @@ const app = express();
 // Server configuration
 const PORT = 8080;
 const attendeesFile = path.join(__dirname, "data", "attendees.json");
+const apiKeysFile = path.join(__dirname, "data", "api-keys.json");
 
 // Middleware to parse JSON in request body
 app.use(express.json());
@@ -29,17 +30,27 @@ const loadUserData = async (req, res, next) => {
     return res.status(500).json({ error: "Internal Server Error" });
   }
 };
+// Middleware to read API Keys
+const loadApiKeys = async (req, res, next) => {
+  try {
+    const data = await fs.readFile(apiKeysFile, "utf-8");
+    req.apiKeys = JSON.parse(data); // Attach users to the request object
+    next();
+  } catch (error) {
+    console.error(error);
+    return res.status(500).json({ error: "Internal Server Error" });
+  }
+};
 
 // Use the middleware for all routes that need user data
-app.use(loadUserData);
+app.use(loadUserData, loadApiKeys);
 
 // Function to send SMS
-async function sendSMS(recipientNo, atendeeName) {
+async function sendSMS(recipientNo, atendeeName, req) {
   try {
     // configs for api call
     const apiUrl = "https://dashboard.smsapi.lk/api/v3/sms/send";
-    const apiToken = "";
-    // const apiToken = "41|GuVkuGRBlvf8AhMikKJcgXh8UYqMjPhfpiWARx4P";
+    const apiToken = req.apiKeys.smsApiKey;
     const senderId = "JESA 2023";
     const message = `Hi ${atendeeName}, Welcome to JESA 2023! We are glad to have you onboard. Please enjoy the event!`;
 
@@ -72,9 +83,9 @@ async function sendSMS(recipientNo, atendeeName) {
     throw error;
   }
 }
-async function callSendSMS(contactNo, name, res) {
+async function callSendSMS(contactNo, name, res, req) {
   // Api call to send sms
-  const smsResponse = await sendSMS(contactNo, name);
+  const smsResponse = await sendSMS(contactNo, name, req);
   if (smsResponse.status === "success") {
     return res.json({
       message: "Attendee marked successfully!",
@@ -155,7 +166,7 @@ app.post("/user/mark/:contactNo", async (req, res) => {
       // Write the updated data back to the file
       await fs.writeFile(attendeesFile, JSON.stringify(users, null, 2));
       // Api call to send sms
-      callSendSMS(contactNo, userToUpdate.name, res);
+      callSendSMS(contactNo, userToUpdate.name, res, req);
     } else {
       return res.status(404).json({ error: "Attendee not found!" });
     }
@@ -183,7 +194,7 @@ app.post("/user/add", async (req, res) => {
     // Write the updated data back to the file
     await fs.writeFile(attendeesFile, JSON.stringify(users, null, 2));
     // Api call to send sms
-    callSendSMS(newAttendee.contactNo, newAttendee.name, res);
+    callSendSMS(newAttendee.contactNo, newAttendee.name, res, req);
   } catch (error) {
     console.error(error);
     return res.status(500).json({ error: "Internal Server Error" });
@@ -210,7 +221,7 @@ app.put("/user/update/:id", async (req, res) => {
       // Write the updated data back to the file
       await fs.writeFile(attendeesFile, JSON.stringify(users, null, 2));
       // Api call to send sms
-      callSendSMS(updatedAttendee.contactNo, updatedAttendee.name, res);
+      callSendSMS(updatedAttendee.contactNo, updatedAttendee.name, res, req);
     } else {
       return res.status(404).json({ error: "Attendee not found" });
     }

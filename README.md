@@ -70,4 +70,4 @@ Updates attendee details based on the provided ID. Also send user details as a J
 
 ## SMS Notification
 
-The application includes an SMS notification feature. After marking attendance or adding a new attendee, an SMS is sent using the [SMS API](https://dashboard.smsapi.lk).
+The application includes an SMS notification feature. After marking attendance or adding a new attendee, an SMS is sent using the [SMS API](https://dashboard.smsapi.lk). If planing to use the same sms api gateway, create a `api-keys.json` file in the `\data\` directory and specify the key inside `smsApiKey` field as a json object.
