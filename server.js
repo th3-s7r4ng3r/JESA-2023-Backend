@@ -15,7 +15,11 @@ const apiKeysFile = path.join(__dirname, "data", "api-keys.json");
 app.use(express.json());
 // Middleware to enable CORS
 const corsOptions = {
-  origin: ["https://www.jesa.lk", "http://localhost:5173"],
+  origin: [
+    "https://www.jesa.lk",
+    "https://dev.jesa.lk",
+    "http://localhost:5173",
+  ],
 };
 app.use(cors(corsOptions));
 
@@ -233,5 +237,5 @@ app.put("/user/update/:id", async (req, res) => {
 
 // Start the server
 app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
+  console.log(`Server is running on :${PORT}`);
 });
