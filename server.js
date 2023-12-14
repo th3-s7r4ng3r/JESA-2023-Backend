@@ -7,7 +7,7 @@ const cors = require("cors");
 const app = express();
 
 // Server configuration
-const PORT = process.env.PORT || 8080;
+const PORT = 443;
 const attendeesFile = path.join(__dirname, "data", "attendees.json");
 const apiKeysFile = path.join(__dirname, "data", "api-keys.json");
 
