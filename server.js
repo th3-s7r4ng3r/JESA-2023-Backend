@@ -7,7 +7,7 @@ const cors = require("cors");
 const app = express();
 
 // Server configuration
-const PORT = process.env.PORT || 9090;
+const PORT = process.env.PORT || 8080;
 const attendeesFile = path.join(__dirname, "data", "attendees.json");
 const apiKeysFile = path.join(__dirname, "data", "api-keys.json");
 
@@ -54,6 +54,7 @@ async function sendSMS(recipientNo, atendeeName, req) {
   try {
     // configs for api call
     const apiUrl = "https://dashboard.smsapi.lk/api/v3/sms/send";
+    // const apiToken = "";
     const apiToken = req.apiKeys.smsApiKey;
     const senderId = "JESA 2023";
     const message = `Hi ${atendeeName}, Welcome to JESA 2023! We are glad to have you onboard. Please enjoy the event!`;
