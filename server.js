@@ -57,12 +57,12 @@ async function sendSMS(recipientNo, atendeeName, req) {
     // const apiToken = "";
     const apiToken = req.apiKeys.smsApiKey;
     const senderId = "JESA 2023";
-    const message = `Warm welcome to JESA '23! 
+    const message = `Warm welcome to JESA '23!
 
-    Your presence adds vibrancy to this prestigious event. Get ready for a celebration of talent, dedication, and achievement.
+Your presence adds vibrancy to this prestigious event. Get ready for a celebration of talent, dedication, and achievement.
     
-    Organizing Committee 
-    JESA '23`;
+Organizing Committee 
+JESA '23`;
 
     // Request Header Parameters
     const headers = {
