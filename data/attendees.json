@@ -2,15 +2,15 @@
   {
     "id": "1",
     "name": "Snr. Prof. Pathmalal M. Manage",
-    "contactNo": "+94714463908",
+    "contactNo": "94714463908",
     "award": "Administration",
     "category": "Main Administration",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "2",
     "name": "Mr. A. B. Weliwita",
-    "contactNo": "+94718206526",
+    "contactNo": "94718206526",
     "award": "Administration",
     "category": "Main Administration",
     "attended": ""
@@ -18,7 +18,7 @@
   {
     "id": "3",
     "name": "Mrs. K. T. C. Priyanganie",
-    "contactNo": "+94719718432",
+    "contactNo": "94719718432",
     "award": "Administration",
     "category": "Main Administration",
     "attended": ""
@@ -26,7 +26,7 @@
   {
     "id": "4",
     "name": "M. A. N. Chandrathilaka",
-    "contactNo": "+94718053293",
+    "contactNo": "94718053293",
     "award": "Administration",
     "category": "Main Administration",
     "attended": ""
@@ -37,60 +37,60 @@
     "contactNo": "",
     "award": "Administration",
     "category": "Main Administration",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "6",
     "name": "Prof. S. M. C. U. P. Subasinghe",
-    "contactNo": "+94714450339",
+    "contactNo": "94714450339",
     "award": "Deans",
     "category": "FAS",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "7",
     "name": "Snr. Prof.Manori Gamage",
-    "contactNo": "+94718312898",
+    "contactNo": "94718312898",
     "award": "Deans",
     "category": "FMS",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "8",
     "name": "Dr. Dushan Jayawickrama",
-    "contactNo": "+94714011489",
+    "contactNo": "94714011489",
     "award": "Deans",
     "category": "FMSC",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "9",
     "name": "Prof. Deepthi Inoka Uluwaduge",
-    "contactNo": "+94773632035",
+    "contactNo": "94773632035",
     "award": "Deans",
     "category": "FAHS",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "10",
     "name": "Dr. Nishan Dharmaweera",
-    "contactNo": "+94763322708",
+    "contactNo": "94763322708",
     "award": "Deans",
     "category": "FOE",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "11",
     "name": "Prof. (Mrs.) A. H. L. R. Nilmini ",
-    "contactNo": "+94718676298",
+    "contactNo": "94718676298",
     "award": "Deans",
     "category": "FOT",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "12",
     "name": "Prof. S. C. B. Heenkenda",
-    "contactNo": "+94777125101",
+    "contactNo": "94777125101",
     "award": "Deans",
     "category": "FHSS",
     "attended": ""
@@ -98,39 +98,39 @@
   {
     "id": "13",
     "name": "Snr. Prof. (Mrs.) S. G. Yasawardana",
-    "contactNo": "+94776522822",
+    "contactNo": "94776522822",
     "award": "Deans",
     "category": "FDS",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "14",
     "name": "Prof. Rasika Perera",
-    "contactNo": "+94714402928",
+    "contactNo": "94714402928",
     "award": "Deans",
     "category": "FGS",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "15",
     "name": "Prof. Prasad M. Jayaweera",
-    "contactNo": "+94718301599",
+    "contactNo": "94718301599",
     "award": "Deans",
     "category": "FOC",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "16",
     "name": "Snr. Prof. P. P. M. Jayaweera",
-    "contactNo": "+94714310805",
+    "contactNo": "94714310805",
     "award": "Deans",
     "category": "FUAB",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "17",
     "name": "Prof. Rev. Pinnawala Sangasumna Thero",
-    "contactNo": "+94714642788",
+    "contactNo": "94714642788",
     "award": "Administration",
     "category": "Other Administration",
     "attended": ""
@@ -138,18 +138,18 @@
   {
     "id": "18",
     "name": "Mrs. Nishanthi",
-    "contactNo": "+94714150712",
+    "contactNo": "94714150712",
     "award": "Administration",
     "category": "Other Administration",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "19",
     "name": "Prof. S. T. W. S. Yapa",
-    "contactNo": "+94714065614",
+    "contactNo": "94714065614",
     "award": "Administration",
     "category": "Other Administration",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "20",
@@ -170,7 +170,7 @@
   {
     "id": "22",
     "name": "Prof. (Mrs.) B. W. R. Damayanthi",
-    "contactNo": "+94714873857",
+    "contactNo": "94714873857",
     "award": "Administration",
     "category": "Other Administration",
     "attended": ""
@@ -178,7 +178,7 @@
   {
     "id": "23",
     "name": "Prof. Rohana B Marasinghe",
-    "contactNo": "+94718483399",
+    "contactNo": "94718483399",
     "award": "Administration",
     "category": "Other Administration",
     "attended": ""
@@ -186,7 +186,7 @@
   {
     "id": "24",
     "name": "Dr. W.G.S Kelum",
-    "contactNo": "+94773205873",
+    "contactNo": "94773205873",
     "award": "Administration",
     "category": "Other Administration",
     "attended": ""
@@ -202,7 +202,7 @@
   {
     "id": "26",
     "name": "Dr. Mahesh Fernando",
-    "contactNo": "+94715341832",
+    "contactNo": "94715341832",
     "award": "Administration",
     "category": "Other Administration",
     "attended": ""
@@ -210,7 +210,7 @@
   {
     "id": "27",
     "name": "Prof. Harendra Kariyawasam",
-    "contactNo": "+94777315396",
+    "contactNo": "94777315396",
     "award": "Administration",
     "category": "Other Administration",
     "attended": ""
@@ -218,7 +218,7 @@
   {
     "id": "28",
     "name": "Prof. Rohini Samarasinghe",
-    "contactNo": "+94770880360",
+    "contactNo": "94770880360",
     "award": "CGU",
     "category": "Former Directors",
     "attended": ""
@@ -226,7 +226,7 @@
   {
     "id": "29",
     "name": "Prof. Geetha",
-    "contactNo": "+94710417109",
+    "contactNo": "94710417109",
     "award": "CGU",
     "category": "Former Directors",
     "attended": ""
@@ -234,23 +234,23 @@
   {
     "id": "30",
     "name": "Prof. Sudath M. Amarasena",
-    "contactNo": "+94717216953",
+    "contactNo": "94717216953",
     "award": "CGU",
     "category": "CGU Administration",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "31",
     "name": "Mrs. Chathurangani Thennakoon",
-    "contactNo": "+94715243744",
+    "contactNo": "94715243744",
     "award": "CGU",
     "category": "CGU Administration",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "32",
     "name": "Mr. Sameera Jayawardhane",
-    "contactNo": "+94707577570",
+    "contactNo": "94707577570",
     "award": "CGU",
     "category": "CGU Staff",
     "attended": ""
@@ -266,23 +266,23 @@
   {
     "id": "34",
     "name": "Ms. Nirosha Madhuwanthi",
-    "contactNo": "+94771920918",
+    "contactNo": "94771920918",
     "award": "CGU",
     "category": "CGU Staff",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "35",
     "name": "Ms. Niroshani",
-    "contactNo": "+94717008793",
+    "contactNo": "94717008793",
     "award": "CGU",
     "category": "CGU Staff",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "36",
     "name": "Ms. Ishara",
-    "contactNo": "+94703484095",
+    "contactNo": "94703484095",
     "award": "CGU",
     "category": "CGU Staff",
     "attended": ""
@@ -290,49 +290,50 @@
   {
     "id": "37",
     "name": "Mr. Saman Bandara",
-    "contactNo": "+94777740395",
+    "contactNo": "94777740395",
     "award": "CGU",
-    "category": "CGU Staff"
+    "category": "CGU Staff",
+    "attended": "TRUE"
   },
   {
     "id": "38",
     "name": "Randi Ushara",
-    "contactNo": "+94766632972",
+    "contactNo": "94766632972",
     "award": "BESA - FHSS",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "39",
     "name": "Hithmi Pankaja",
-    "contactNo": "+94775419033",
+    "contactNo": "94775419033",
     "award": "BESA - FHSS",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "40",
     "name": "Rashmi Niyangoda",
-    "contactNo": "+94714656730",
+    "contactNo": "94714656730",
     "award": "BESA - FHSS",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "41",
-    "name": "",
-    "contactNo": "",
+    "name": "Miss. Shehani Perera",
+    "contactNo": "94705950395",
     "award": "BESA - FHSS",
     "category": "Partner - Platinum (Star A Komar Company)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "42",
-    "name": "",
-    "contactNo": "",
+    "name": "Miss. Prabodha Wijesiri",
+    "contactNo": "94715501645",
     "award": "BESA - FHSS",
     "category": "Partner - Platinum (Star A Komar Company)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "43",
@@ -344,67 +345,67 @@
   },
   {
     "id": "44",
-    "name": "",
-    "contactNo": "",
+    "name": "Lahiru Gunaratne",
+    "contactNo": "94779607119",
     "award": "BESA - FHSS",
     "category": "Partner - Gold (MAS)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "45",
-    "name": "",
-    "contactNo": "",
+    "name": "Archana",
+    "contactNo": "94774898866",
     "award": "BESA - FHSS",
     "category": "Partner - Gold (MAS)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "46",
     "name": "Ven. prof. Panahaduwe Yasassi",
-    "contactNo": "+94714879654",
+    "contactNo": "94714879654",
     "award": "BESA - FHSS",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "47",
     "name": "Dr. Eranga Jayasekara",
-    "contactNo": "+94773777055",
+    "contactNo": "94773777055",
     "award": "BESA - FHSS",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "48",
     "name": "Ms. Radhika Ponnamperuma",
-    "contactNo": "+94773431348",
+    "contactNo": "94773431348",
     "award": "BESA - FHSS",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "49",
     "name": "Panchanie Karunaratne",
-    "contactNo": "+94774068886",
+    "contactNo": "94774068886",
     "award": "BESA - FAS",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "50",
     "name": "Janith Thenura",
-    "contactNo": "+94713293393",
+    "contactNo": "94713293393",
     "award": "BESA - FAS/Best Team Player",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "51",
     "name": "Nelufar Sariffodeen",
-    "contactNo": "+94702580620",
+    "contactNo": "94702580620",
     "award": "BESA - FAS",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "52",
@@ -449,7 +450,7 @@
   {
     "id": "57",
     "name": "Dr. S. Weerasinghe",
-    "contactNo": "+94773314277",
+    "contactNo": "94773314277",
     "award": "BESA - FAS",
     "category": "judge",
     "attended": ""
@@ -457,7 +458,7 @@
   {
     "id": "58",
     "name": "Dr. Gayan Siriwardana",
-    "contactNo": "+94703766830",
+    "contactNo": "94703766830",
     "award": "BESA - FAS",
     "category": "judge",
     "attended": ""
@@ -465,7 +466,7 @@
   {
     "id": "59",
     "name": "Mr. P. Dias",
-    "contactNo": "+94718421624",
+    "contactNo": "94718421624",
     "award": "BESA - FAS",
     "category": "judge",
     "attended": ""
@@ -473,55 +474,55 @@
   {
     "id": "60",
     "name": "T.D.S Karunarathna",
-    "contactNo": "+94768341278",
+    "contactNo": "94768341278",
     "award": "BESA - FAHS",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "61",
     "name": "A.N.N Dinuwanthi",
-    "contactNo": "+94762940050",
+    "contactNo": "94762940050",
     "award": "BESA - FAHS",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "62",
     "name": "W.G Sandun Saranga",
-    "contactNo": "+94719434299",
+    "contactNo": "94719434299",
     "award": "BESA - FAHS",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "63",
-    "name": "",
-    "contactNo": "",
+    "name": "Gayani Dias",
+    "contactNo": "94703813001",
     "award": "BESA - FAHS",
     "category": "Partner - Platinum (Sunshine Holdings)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "64",
-    "name": "",
+    "name": "diani",
     "contactNo": "",
     "award": "BESA - FAHS",
     "category": "Partner - Platinum (Sunshine Holdings)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "65",
-    "name": "",
-    "contactNo": "",
+    "name": "prasangi",
+    "contactNo": "94768214803",
     "award": "BESA - FAHS",
     "category": "Partner - Platinum (Sunshine Holdings)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "66",
     "name": "Dr. Prathap Kaluthanthri",
-    "contactNo": "+94773654879",
+    "contactNo": "94773654879",
     "award": "BESA - FAHS",
     "category": "judge",
     "attended": ""
@@ -529,7 +530,7 @@
   {
     "id": "67",
     "name": "Dr. A.A.T.D. Amarasekara",
-    "contactNo": "+94772791404",
+    "contactNo": "94772791404",
     "award": "BESA - FAHS",
     "category": "judge",
     "attended": ""
@@ -537,7 +538,7 @@
   {
     "id": "68",
     "name": "Dr. Niroshima Withanage",
-    "contactNo": "+94773406736",
+    "contactNo": "94773406736",
     "award": "BESA - FAHS",
     "category": "judge",
     "attended": ""
@@ -545,114 +546,114 @@
   {
     "id": "69",
     "name": "Thapodha Gangodawila",
-    "contactNo": "+94767972365",
+    "contactNo": "94767972365",
     "award": "BESA - FMS ",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "70",
     "name": "Krishan Dhammearatchi",
-    "contactNo": "+94713683678",
+    "contactNo": "94713683678",
     "award": "BESA - FMS ",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "71",
     "name": "Sandun Wikumsara",
-    "contactNo": "+94719278022",
+    "contactNo": "94719278022",
     "award": "BESA - FMS ",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "72",
-    "name": "",
-    "contactNo": "",
+    "name": "Saranga Pranahewa",
+    "contactNo": "94777809808",
     "award": "BESA - FMS ",
     "category": "Partner - Platinum (Asiri Health)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "73",
-    "name": "",
-    "contactNo": "",
+    "name": "Chandana Laksiri",
+    "contactNo": "94760562705",
     "award": "BESA - FMS ",
     "category": "Partner - Platinum (Asiri Health)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "74",
-    "name": "",
-    "contactNo": "",
+    "name": "Asanka Mahesh",
+    "contactNo": "94773796710",
     "award": "BESA - FMS ",
     "category": "Partner - Platinum (Asiri Health)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "75",
     "name": "Prof. Pahan Godakumbura",
-    "contactNo": "+94766211647",
+    "contactNo": "94766211647",
     "award": "BESA - FMS ",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "76",
     "name": "Prof. Harsha Disanayake",
-    "contactNo": "+94718786833",
+    "contactNo": "94718786833",
     "award": "BESA - FMS ",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "77",
     "name": "Dr. Sithara Dissanayake",
-    "contactNo": "+94773669442",
+    "contactNo": "94773669442",
     "award": "BESA - FMS ",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "78",
     "name": "Supun Muthukuda",
-    "contactNo": "+94761623664",
+    "contactNo": "94761623664",
     "award": "BESA - FMSC",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "79",
     "name": "Asalya Bandara",
-    "contactNo": "+94776696833",
+    "contactNo": "94776696833",
     "award": "BESA - FMSC",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "80",
     "name": "Nomin Premarathna",
-    "contactNo": "+94702403719",
+    "contactNo": "94702403719",
     "award": "BESA - FMSC",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "81",
-    "name": "",
-    "contactNo": "",
+    "name": "Nadee hemachandra",
+    "contactNo": "94770692186",
     "award": "BESA - FMSC",
     "category": "Partner - Platinum (Unilever)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "82",
-    "name": "",
-    "contactNo": "",
+    "name": "trevon",
+    "contactNo": "94777382000",
     "award": "BESA - FMSC",
     "category": "Partner - Platinum (Unilever)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "83",
@@ -665,26 +666,26 @@
   {
     "id": "84",
     "name": "Mr.Shehan",
-    "contactNo": "+94776203300",
+    "contactNo": "94776203300",
     "award": "BESA - FMSC",
     "category": "Partner - Gold (Wrist Band Lanka)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "85",
-    "name": "Wristband",
-    "contactNo": "+94740072722",
+    "name": "hashan",
+    "contactNo": "94740072722",
     "award": "BESA - FMSC",
     "category": "Partner - Gold (Wrist Band Lanka)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "86",
     "name": "Prof. M.S.S. Perera",
-    "contactNo": "+94718386626",
+    "contactNo": "94718386626",
     "award": "BESA - FMSC",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "87",
@@ -697,15 +698,15 @@
   {
     "id": "88",
     "name": "Dr. H.P.N. Perera",
-    "contactNo": "+94777513162",
+    "contactNo": "94777513162",
     "award": "BESA - FMSC",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "89",
     "name": "Prof. (Mrs.) B. W. R. Damayanthi",
-    "contactNo": "+94714873857",
+    "contactNo": "94714873857",
     "award": "BESA - FMSC",
     "category": "judge",
     "attended": ""
@@ -713,42 +714,42 @@
   {
     "id": "90",
     "name": "Madhushan Dhananjaya",
-    "contactNo": "+94773774616",
+    "contactNo": "94773774616",
     "award": "BESA -  FOT",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "91",
     "name": "Dhanushika Lakmali",
-    "contactNo": "+94776504163",
+    "contactNo": "94776504163",
     "award": "BESA -  FOT",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "92",
     "name": "Hashen Samaranayaka",
-    "contactNo": "+94711690519",
+    "contactNo": "94711690519",
     "award": "BESA -  FOT",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "93",
-    "name": "",
-    "contactNo": "",
+    "name": "Miss. Dinithi Abeykoon",
+    "contactNo": "94767992748",
     "award": "BESA -  FOT",
     "category": "Partner - Platinum (Creative Software)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "94",
-    "name": "",
-    "contactNo": "",
+    "name": "Miss. Dewmini Samarawikrama",
+    "contactNo": "94770260780",
     "award": "BESA -  FOT",
     "category": "Partner - Platinum (Creative Software)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "95",
@@ -777,15 +778,15 @@
   {
     "id": "98",
     "name": "Prof. K. M. S. D.Kulathunga",
-    "contactNo": "+94718331871",
+    "contactNo": "94718331871",
     "award": "BESA -  FOT",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "99",
     "name": " Dr. P.L.M. Prabhani",
-    "contactNo": "+94714463920",
+    "contactNo": "94714463920",
     "award": "BESA -  FOT",
     "category": "judge",
     "attended": ""
@@ -793,7 +794,7 @@
   {
     "id": "100",
     "name": "Dr. Gaya Jayakody",
-    "contactNo": "+94713354400",
+    "contactNo": "94713354400",
     "award": "BESA -  FOT",
     "category": "judge",
     "attended": ""
@@ -801,71 +802,71 @@
   {
     "id": "101",
     "name": "Rusiru",
-    "contactNo": "+94719517437",
+    "contactNo": "94719517437",
     "award": "BESA - FOE",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "102",
     "name": "Virunaka",
-    "contactNo": "+94716856877",
+    "contactNo": "94716856877",
     "award": "BESA - FOE",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "103",
     "name": "Shamika",
-    "contactNo": "+94774356960",
+    "contactNo": "94774356960",
     "award": "BESA - FOE",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "104",
-    "name": "",
-    "contactNo": "",
+    "name": "Aruni de soyza",
+    "contactNo": "94773088287",
     "award": "BESA - FOE",
     "category": "Partner - Platinum (DIMO Lanka)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "105",
-    "name": "",
-    "contactNo": "",
+    "name": "Prageeth Gunaratne",
+    "contactNo": "94773065587",
     "award": "BESA - FOE",
     "category": "Partner - Platinum (DIMO Lanka)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "106",
-    "name": "",
-    "contactNo": "",
+    "name": "chamara perera",
+    "contactNo": "94774441000",
     "award": "BESA - FOE",
     "category": "Partner - Platinum (DIMO Lanka)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "107",
-    "name": "",
-    "contactNo": "",
+    "name": "Mr. Buddhika Gunawardene",
+    "contactNo": "94704369920",
     "award": "BESA - FOE",
     "category": "Partner - Gold (SLT)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "108",
-    "name": "",
-    "contactNo": "",
+    "name": "Mrs. Riqhasa",
+    "contactNo": "94712706666",
     "award": "BESA - FOE",
     "category": "Partner - Gold (SLT)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "109",
     "name": "Prof. L.D.C. Peiris",
-    "contactNo": "+94714018537",
+    "contactNo": "94714018537",
     "award": "BESA - FOE",
     "category": "judge",
     "attended": ""
@@ -873,7 +874,7 @@
   {
     "id": "110",
     "name": "Dr. Shyam Kularathna",
-    "contactNo": "+94701370066",
+    "contactNo": "94701370066",
     "award": "BESA - FOE",
     "category": "judge",
     "attended": ""
@@ -881,7 +882,7 @@
   {
     "id": "111",
     "name": "Dr. Udaya Wijenayake",
-    "contactNo": "+94764655928",
+    "contactNo": "94764655928",
     "award": "BESA - FOE",
     "category": "judge",
     "attended": ""
@@ -889,74 +890,74 @@
   {
     "id": "112",
     "name": "Jihan Fernando",
-    "contactNo": "+94775774586",
+    "contactNo": "94775774586",
     "award": "Best Innovator/Best Young Entrepreneur",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "113",
     "name": "Dilki Gunasekara",
-    "contactNo": "+94776669273",
+    "contactNo": "94776669273",
     "award": "Best Innovator",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "114",
     "name": "Chenura fernando",
-    "contactNo": "+94725414247",
+    "contactNo": "94725414247",
     "award": "Best Innovator",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "115",
-    "name": "",
-    "contactNo": "",
+    "name": "Mr. Tharindu Dissanayake",
+    "contactNo": "94766642752",
     "award": "Best Innovator",
     "category": "Partner - Platinum (Teejay Lanka)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "116",
-    "name": "",
-    "contactNo": "",
+    "name": "Mr. Manjula Thushara",
+    "contactNo": "94773840579",
     "award": "Best Innovator",
     "category": "Partner - Platinum (Teejay Lanka)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "117",
-    "name": "",
-    "contactNo": "",
+    "name": "Mrs. Samadhi Weerakoon",
+    "contactNo": "94777005012",
     "award": "Best Innovator",
     "category": "Partner - Platinum (Teejay Lanka)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "118",
-    "name": "",
-    "contactNo": "",
+    "name": "Miss. Iresha Fernando",
+    "contactNo": "94777145971",
     "award": "Best Innovator",
     "category": "Partner - Platinum (Teejay Lanka)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "119",
-    "name": "",
-    "contactNo": "",
+    "name": "Niluka Bandara",
+    "contactNo": "94762079209",
     "award": "Best Innovator",
     "category": "Partner - Platinum (Teejay Lanka)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "120",
-    "name": "",
-    "contactNo": "",
+    "name": "Lakmini Hemamali",
+    "contactNo": "94772078181",
     "award": "Best Innovator",
     "category": "Partner - Gold (BaurS & Co)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "121",
@@ -976,11 +977,11 @@
   },
   {
     "id": "123",
-    "name": "",
-    "contactNo": "",
+    "name": "Dadli Sirisena",
+    "contactNo": "94777567744",
     "award": "Best Innovator",
     "category": "Partner - Silver (Araliya Group)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "124",
@@ -993,7 +994,7 @@
   {
     "id": "125",
     "name": "Prof. Lasith Gunawardena",
-    "contactNo": "+94777316390",
+    "contactNo": "94777316390",
     "award": "Best Innovator",
     "category": "judge",
     "attended": ""
@@ -1009,7 +1010,7 @@
   {
     "id": "127",
     "name": "Prof. Nilushi Nugara",
-    "contactNo": "+94766755581",
+    "contactNo": "94766755581",
     "award": "Best Innovator",
     "category": "judge",
     "attended": ""
@@ -1017,7 +1018,7 @@
   {
     "id": "128",
     "name": "Dr. Chameera Udawaththa",
-    "contactNo": "+94777222658",
+    "contactNo": "94777222658",
     "award": "Best Innovator",
     "category": "judge",
     "attended": ""
@@ -1025,26 +1026,26 @@
   {
     "id": "129",
     "name": "Praveen Wickramasinghe",
-    "contactNo": "+94769394630",
+    "contactNo": "94769394630",
     "award": "Best Communicator",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "130",
     "name": "Mineli De Croos",
-    "contactNo": "+94773626930",
+    "contactNo": "94773626930",
     "award": "Best Communicator",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "131",
     "name": "Ragavi Ratnaranjan",
-    "contactNo": "+94767602503",
+    "contactNo": "94767602503",
     "award": "Best Communicator",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "132",
@@ -1072,24 +1073,24 @@
   },
   {
     "id": "135",
-    "name": "",
-    "contactNo": "",
+    "name": "Mr. Shanitha",
+    "contactNo": "94774197367",
     "award": "Best Communicator",
     "category": "Partner - Gold (British Council)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "136",
-    "name": "",
-    "contactNo": "",
+    "name": "Nimanthi",
+    "contactNo": "94773650500",
     "award": "Best Communicator",
     "category": "Partner - Gold (British Council)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "137",
     "name": "Prof. R.B.Marasinghe",
-    "contactNo": "+94718483399",
+    "contactNo": "94718483399",
     "award": "Best Communicator",
     "category": "judge",
     "attended": ""
@@ -1097,7 +1098,7 @@
   {
     "id": "138",
     "name": "Prof. K.M. Thilini. D. Gunasekera",
-    "contactNo": "+94718512861",
+    "contactNo": "94718512861",
     "award": "Best Communicator",
     "category": "judge",
     "attended": ""
@@ -1105,15 +1106,15 @@
   {
     "id": "139",
     "name": "Dr. Lishanthi Wijewardene",
-    "contactNo": "+94717441188",
+    "contactNo": "94717441188",
     "award": "Best Communicator",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "140",
     "name": "Mr. Indumini Kaviratne",
-    "contactNo": "+94716511588",
+    "contactNo": "94716511588",
     "award": "Best Communicator",
     "category": "judge",
     "attended": ""
@@ -1121,26 +1122,26 @@
   {
     "id": "141",
     "name": "Shamika Rajapaksha",
-    "contactNo": "+94763402474",
+    "contactNo": "94763402474",
     "award": "Best Creative Designer",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "142",
     "name": "Hasantha Balasooriya",
-    "contactNo": "+94758518355",
+    "contactNo": "94758518355",
     "award": "Best Creative Designer",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "143",
     "name": "Induwara Gamage",
-    "contactNo": "+94718938256",
+    "contactNo": "94718938256",
     "award": "Best Creative Designer",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "144",
@@ -1161,23 +1162,23 @@
   {
     "id": "146",
     "name": "Prof. Hiran Amarasekera",
-    "contactNo": "+94714478775",
+    "contactNo": "94714478775",
     "award": "Best Creative Designer",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "147",
     "name": "Dr Praneeth Abeysundara",
-    "contactNo": "+94773718045",
+    "contactNo": "94773718045",
     "award": "Best Creative Designer",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "148",
     "name": "Mr. Shantha Puhulwella",
-    "contactNo": "+94777171855",
+    "contactNo": "94777171855",
     "award": "Best Creative Designer",
     "category": "judge",
     "attended": ""
@@ -1185,42 +1186,42 @@
   {
     "id": "149",
     "name": "Niduk Madushan",
-    "contactNo": "+94788846896",
+    "contactNo": "94788846896",
     "award": "Best Young Entrepreneur",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "150",
     "name": "Shan Dilhara",
-    "contactNo": "+94719429322",
+    "contactNo": "94719429322",
     "award": "Best Young Entrepreneur",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "151",
     "name": "Ravindu Jayewardene",
-    "contactNo": "+94710660914",
+    "contactNo": "94710660914",
     "award": "Best Young Entrepreneur",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "152",
-    "name": "",
-    "contactNo": "",
+    "name": "Yashintha Bakmeewana",
+    "contactNo": "94712068088",
     "award": "Best Young Entrepreneur",
     "category": "Partner - Platinum (Brandix Lanka)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "153",
-    "name": "",
-    "contactNo": "",
+    "name": "Harsha Liyanage",
+    "contactNo": "94772907126",
     "award": "Best Young Entrepreneur",
     "category": "Partner - Platinum (Brandix Lanka)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "154",
@@ -1232,16 +1233,16 @@
   },
   {
     "id": "155",
-    "name": "",
-    "contactNo": "",
+    "name": "Mr. Nirooshan Dulanjala",
+    "contactNo": "94776274668",
     "award": "Best Young Entrepreneur",
     "category": "Partner - Silver (CoCo Dream Lanka)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "156",
     "name": "PROF. R.G.N MEEGAMA",
-    "contactNo": "+94718388055",
+    "contactNo": "94718388055",
     "award": "Best Young Entrepreneur",
     "category": "judge",
     "attended": ""
@@ -1249,7 +1250,7 @@
   {
     "id": "157",
     "name": "Dr. H.K.G.S Ranasinghe",
-    "contactNo": "+94776500518",
+    "contactNo": "94776500518",
     "award": "Best Young Entrepreneur",
     "category": "judge",
     "attended": ""
@@ -1257,50 +1258,50 @@
   {
     "id": "158",
     "name": "Dr. W. K. I. L.Wanniarachchi",
-    "contactNo": "+94713595046",
+    "contactNo": "94713595046",
     "award": "Best Young Entrepreneur",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "159",
     "name": "Oshan Brahmanage",
-    "contactNo": "+94776411801",
+    "contactNo": "94776411801",
     "award": "Best Leader",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "160",
     "name": "Yasiru Chamalka",
-    "contactNo": "+94714082007",
+    "contactNo": "94714082007",
     "award": "Best Leader/Best Team Player",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "161",
     "name": "Pathum Bandara",
-    "contactNo": "+94762737342",
+    "contactNo": "94762737342",
     "award": "Best Leader",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "162",
-    "name": "",
-    "contactNo": "",
+    "name": "lahiru wijesooriya",
+    "contactNo": "94764203377",
     "award": "Best Leader",
     "category": "Partner - Platinum (Alpha Apparels)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "163",
-    "name": "",
+    "name": "Kapila Mithrarathne",
     "contactNo": "",
     "award": "Best Leader",
     "category": "Partner - Platinum (Alpha Apparels)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "164",
@@ -1313,7 +1314,7 @@
   {
     "id": "165",
     "name": "Prof. R. G. Ariyawansa",
-    "contactNo": "+94718190712",
+    "contactNo": "94718190712",
     "award": "Best Leader",
     "category": "judge",
     "attended": ""
@@ -1321,7 +1322,7 @@
   {
     "id": "166",
     "name": "Mr. Sachin Wijayasinghe",
-    "contactNo": "+94773684187",
+    "contactNo": "94773684187",
     "award": "Best Leader",
     "category": "judge",
     "attended": ""
@@ -1329,7 +1330,7 @@
   {
     "id": "167",
     "name": "Dr. Nishan Dharmaweera",
-    "contactNo": "+94763322708",
+    "contactNo": "94763322708",
     "award": "Best Leader",
     "category": "judge",
     "attended": ""
@@ -1337,39 +1338,39 @@
   {
     "id": "168",
     "name": "Maheesha Liyanagamag",
-    "contactNo": "+94711632146",
+    "contactNo": "94711632146",
     "award": "Best Team Player",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "169",
-    "name": "",
-    "contactNo": "",
+    "name": "Shashika",
+    "contactNo": "94778518138",
     "award": "Best Team Player",
     "category": "Partner - Platinum (Coca Cola)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "170",
-    "name": "",
-    "contactNo": "",
+    "name": "Thushanithi",
+    "contactNo": "94777718432",
     "award": "Best Team Player",
     "category": "Partner - Platinum (Coca Cola)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "171",
-    "name": "",
-    "contactNo": "",
+    "name": "Dimuthu",
+    "contactNo": "94773079567",
     "award": "Best Team Player",
     "category": "Partner - Platinum (Coca Cola)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "172",
     "name": "Prof. N.T. Perera",
-    "contactNo": "+94777614561",
+    "contactNo": "94777614561",
     "award": "Best Team Player",
     "category": "judge",
     "attended": ""
@@ -1377,7 +1378,7 @@
   {
     "id": "173",
     "name": "Dr. M.A. Shantha Wijesinghe",
-    "contactNo": "+94718079802",
+    "contactNo": "94718079802",
     "award": "Best Team Player",
     "category": "judge",
     "attended": ""
@@ -1385,7 +1386,7 @@
   {
     "id": "174",
     "name": "Dr. Udayangani Thalgaspitiya",
-    "contactNo": "+94714467388",
+    "contactNo": "94714467388",
     "award": "Best Team Player",
     "category": "judge",
     "attended": ""
@@ -1393,50 +1394,50 @@
   {
     "id": "175",
     "name": "Dr. W. Mahesh N. Fernando",
-    "contactNo": "+94715341832",
+    "contactNo": "94715341832",
     "award": "Best Team Player",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "176",
     "name": "Donate Hppyness",
-    "contactNo": "+94702526193",
+    "contactNo": "94702526193",
     "award": "Best CSR",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "177",
     "name": "Diviyata Diviyak",
-    "contactNo": "+94765818342",
+    "contactNo": "94765818342",
     "award": "Best CSR",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "178",
     "name": "Sahas Diyawara",
-    "contactNo": "+94772012991",
+    "contactNo": "94715411736",
     "award": "Best CSR",
     "category": "nominee",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "179",
-    "name": "",
-    "contactNo": "",
+    "name": "Mr. Nishan Silva",
+    "contactNo": "94777239734",
     "award": "Best CSR",
     "category": "Partner - Platinum (CHEC Port City)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "180",
-    "name": "",
-    "contactNo": "",
+    "name": "Mr. Daminda Malaviarachchi",
+    "contactNo": "94779219695",
     "award": "Best CSR",
     "category": "Partner - Platinum (CHEC Port City)",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "181",
@@ -1449,23 +1450,23 @@
   {
     "id": "182",
     "name": "Dr. Janaka Fernando",
-    "contactNo": "+94714191996",
+    "contactNo": "94714191996",
     "award": "Best CSR",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "183",
     "name": "Dr. R.P .C .K. Jayasinghe",
-    "contactNo": "+94718456412",
+    "contactNo": "94718456412",
     "award": "Best CSR",
     "category": "judge",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "184",
     "name": "Prof. M. A. Jagath Wansapala",
-    "contactNo": "+94714450352",
+    "contactNo": "94714450352",
     "award": "Best CSR",
     "category": "judge",
     "attended": ""
@@ -1473,39 +1474,39 @@
   {
     "id": "185",
     "name": "Mr Yasiru Chamalka",
-    "contactNo": "+94714082007",
+    "contactNo": "94714082007",
     "award": "JESA 22",
     "category": "Director Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "186",
     "name": "Mr Warnith Gajendra",
-    "contactNo": "+94760706964",
+    "contactNo": "94760706964",
     "award": "JESA 22",
     "category": "Director Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "187",
     "name": "Miss. Poojani Bhagya",
-    "contactNo": "+94763236994",
+    "contactNo": "94763236994",
     "award": "JESA 22",
     "category": "Director Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "188",
     "name": "Miss. Dumaya Fernando",
-    "contactNo": "+94717078008",
+    "contactNo": "94717078008",
     "award": "JESA 22",
     "category": "Director Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "189",
     "name": "Miss. Thamaramalee hearth",
-    "contactNo": "+94767776307",
+    "contactNo": "94767776307",
     "award": "JESA 22",
     "category": "Director Board",
     "attended": ""
@@ -1513,151 +1514,151 @@
   {
     "id": "190",
     "name": "Mr Kalum Eranda",
-    "contactNo": "+94768512438",
+    "contactNo": "94768512438",
     "award": "JESA 22",
     "category": "Director Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "191",
     "name": "Miss Nishmi",
-    "contactNo": "+94703087274",
+    "contactNo": "94703087274",
     "award": "JESA 22",
     "category": "Director Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "192",
     "name": "Induwara Gamage",
-    "contactNo": "+94718938256",
+    "contactNo": "94718938256",
     "award": "JESA 23 OC",
     "category": "Director Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "193",
     "name": "Naveen Tharanga",
-    "contactNo": "+94711766662",
+    "contactNo": "94711766662",
     "award": "JESA 23 OC",
     "category": "Director Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "194",
     "name": "Vihangi Godakanda",
-    "contactNo": "+94763886390",
+    "contactNo": "94763886390",
     "award": "JESA 23 OC",
     "category": "Director Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "195",
     "name": "Shashikala Manushani",
-    "contactNo": "+94703833716",
+    "contactNo": "94703833716",
     "award": "JESA 23 OC",
     "category": "Director Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "196",
     "name": "Nadeera Jathunga",
-    "contactNo": "+94778252954",
+    "contactNo": "94778252954",
     "award": "JESA 23 OC",
     "category": "Director Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "197",
     "name": "Lakshan Thennakoon",
-    "contactNo": "+94750716471",
+    "contactNo": "94750716471",
     "award": "JESA 23 OC",
     "category": "Director Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "198",
     "name": "Aveesha Chithmini",
-    "contactNo": "+94716244690",
+    "contactNo": "94716244690",
     "award": "JESA 23 OC",
     "category": "Director Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "199",
     "name": "Nadeera Udayanga",
-    "contactNo": "+94717080058",
+    "contactNo": "94717080058",
     "award": "JESA 23 OC",
     "category": "Executive OC",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "200",
     "name": "Ishini De Silva",
-    "contactNo": "+94763610310",
+    "contactNo": "94763610310",
     "award": "JESA 23 OC",
     "category": "Executive OC",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "201",
     "name": "Asanka Lilan",
-    "contactNo": "+94778558055",
+    "contactNo": "94778558055",
     "award": "JESA 23 OC",
     "category": "Executive OC",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "202",
     "name": "Janeesha Senanayake",
-    "contactNo": "+94711570120",
+    "contactNo": "94711570120",
     "award": "JESA 23 OC",
     "category": "Executive OC",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "203",
     "name": "Ginuka Wickramsinghe",
-    "contactNo": "+94784761117",
+    "contactNo": "94784761117",
     "award": "JESA 23 OC",
     "category": "Executive OC",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "204",
     "name": "Tharindu Fernando",
-    "contactNo": "+94766483484",
+    "contactNo": "94766483484",
     "award": "JESA 23 OC",
     "category": "Executive OC",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "205",
     "name": "Hasantha Madushan",
-    "contactNo": "+94767083292",
+    "contactNo": "94767083292",
     "award": "JESA 23 OC",
     "category": "Executive OC",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "206",
     "name": "Dinithi Saubhagya",
-    "contactNo": "+94702812995",
+    "contactNo": "94702812995",
     "award": "JESA 23 OC",
     "category": "Executive OC",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "207",
     "name": "Kaveesha Weeraman",
-    "contactNo": "+94705044501",
+    "contactNo": "94705044501",
     "award": "JESA 23 OC",
     "category": "Executive OC",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "208",
     "name": "Veronica Fernando",
-    "contactNo": "+94769396319",
+    "contactNo": "94769396319",
     "award": "JESA 23 OC",
     "category": "Executive OC",
     "attended": ""
@@ -1665,55 +1666,55 @@
   {
     "id": "209",
     "name": "Pubudu Nirmani",
-    "contactNo": "+94705811918",
+    "contactNo": "94705811918",
     "award": "CSDS",
     "category": "Executive Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "210",
     "name": "Nimna Devindi",
-    "contactNo": "+94772124079",
+    "contactNo": "94772124079",
     "award": "CSDS",
     "category": "Executive Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "211",
     "name": "Udari Sooriyabandara",
-    "contactNo": "+94703379139",
+    "contactNo": "94703379139",
     "award": "CSDS",
     "category": "Executive Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "212",
     "name": "Mifraq Ahamed",
-    "contactNo": "+94713590337",
+    "contactNo": "94713590337",
     "award": "CSDS",
     "category": "Executive Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "213",
-    "name": "Dasuni Saubhagya",
-    "contactNo": "+94767716518",
+    "name": "Dasuni nipunika",
+    "contactNo": "94767716518",
     "award": "CSDS",
     "category": "Executive Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "214",
     "name": "Chamudhi Nirmani",
-    "contactNo": "+94772458946",
+    "contactNo": "94772458946",
     "award": "CSDS",
     "category": "Executive Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "215",
     "name": "Yasiru Tharushan",
-    "contactNo": "+94769190706",
+    "contactNo": "94769190706",
     "award": "CSDS",
     "category": "Executive Board",
     "attended": ""
@@ -1721,39 +1722,39 @@
   {
     "id": "216",
     "name": "Senuri Sansala",
-    "contactNo": "+94763365088",
+    "contactNo": "94763365088",
     "award": "CSDS",
     "category": "Executive Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "217",
     "name": "Dinithi Heiyanthuduwa",
-    "contactNo": "+94761527692",
+    "contactNo": "94761527692",
     "award": "CSDS",
     "category": "Executive Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "218",
     "name": "Dimuthu Lakshan",
-    "contactNo": "+94714723203",
+    "contactNo": "94714723203",
     "award": "CSDS",
     "category": "Executive Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "219",
     "name": "Dilanka Sasini",
-    "contactNo": "+94705073173",
+    "contactNo": "94705073173",
     "award": "CSDS",
     "category": "Executive Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "220",
     "name": "Bhagya Samrakoon",
-    "contactNo": "+94789296582",
+    "contactNo": "94789296582",
     "award": "CSDS",
     "category": "Executive Board",
     "attended": ""
@@ -1761,31 +1762,31 @@
   {
     "id": "221",
     "name": "Chathuranga Sampath",
-    "contactNo": "+94774312578",
+    "contactNo": "94774312578",
     "award": "CSDS",
     "category": "Executive Board",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "222",
     "name": "Jinani Sirisena",
-    "contactNo": "+94760901326",
+    "contactNo": "94760901326",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "223",
     "name": "Supun Ransila",
-    "contactNo": "+94712328661",
+    "contactNo": "94712328661",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "224",
     "name": "Sandeepa",
-    "contactNo": "+94714512856",
+    "contactNo": "94714512856",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
     "attended": ""
@@ -1793,255 +1794,255 @@
   {
     "id": "225",
     "name": "Rabindra",
-    "contactNo": "+94776635311",
+    "contactNo": "94776635311",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "226",
     "name": "Dhananji",
-    "contactNo": "+94711644121",
+    "contactNo": "94711644121",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "227",
     "name": "Kalani",
-    "contactNo": "+94754203508",
+    "contactNo": "94754203508",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "228",
     "name": "Avishka",
-    "contactNo": "+94713389411",
+    "contactNo": "94713389411",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "229",
     "name": "Mahesh",
-    "contactNo": "+94711853103",
+    "contactNo": "94711853103",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "230",
     "name": "Amaya",
-    "contactNo": "+94716131725",
+    "contactNo": "94722843574",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "231",
     "name": "Vihan ",
-    "contactNo": "+94758370677",
+    "contactNo": "94758370677",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "232",
     "name": "Ushandhini",
-    "contactNo": "+94720862277",
+    "contactNo": "94720862277",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "233",
     "name": "Wanindu",
-    "contactNo": "+94714897045",
+    "contactNo": "94714897045",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "234",
     "name": "Ishuru Chinthaka",
-    "contactNo": "+94768104231",
+    "contactNo": "94768104231",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "235",
     "name": "Sandali",
-    "contactNo": "+94783994303",
+    "contactNo": "94783994303",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "236",
     "name": "Gimhani",
-    "contactNo": "+94718508220",
+    "contactNo": "94718508220",
     "award": "JESA 23 Coordinators",
     "category": "Main Coordinators",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "237",
     "name": "Asnaf Umar",
-    "contactNo": "+94760739442",
+    "contactNo": "94760739442",
     "award": "JESA 23 Crew",
     "category": "Workshop Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "238",
     "name": "Windya",
-    "contactNo": "",
+    "contactNo": "94714897045",
     "award": "JESA 23 Crew",
     "category": "Workshop Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "239",
     "name": "Dismi",
-    "contactNo": "+94705188815",
+    "contactNo": "94705188815",
     "award": "JESA 23 Crew",
     "category": "Workshop Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "240",
     "name": "Gayan",
-    "contactNo": "+94774395708",
+    "contactNo": "94774395708",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "241",
     "name": "Vinura",
-    "contactNo": "+94766885466",
+    "contactNo": "94766885466",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "242",
     "name": "Hashini",
-    "contactNo": "+94742540954",
+    "contactNo": "94742540954",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "243",
     "name": "Kavindi",
-    "contactNo": "+94711563601",
+    "contactNo": "94711563601",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "244",
     "name": "Imesha",
-    "contactNo": "+94779262073",
+    "contactNo": "94779262073",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "245",
     "name": "Dilki",
-    "contactNo": "+94782601033",
+    "contactNo": "94782601033",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "246",
     "name": "Sanoj",
-    "contactNo": "+94771594689",
+    "contactNo": "94771594689",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "247",
     "name": "Gangulel",
-    "contactNo": "+94768359394",
+    "contactNo": "94768359394",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "248",
     "name": "Kavindu",
-    "contactNo": "+94702536770",
+    "contactNo": "94702536770",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "249",
     "name": "Harsha ",
-    "contactNo": "+94760222092",
+    "contactNo": "94760222092",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "250",
     "name": "Charaka",
-    "contactNo": "+94714107068",
+    "contactNo": "94714107068",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "251",
     "name": "Kavindu (Mgt)",
-    "contactNo": "+94705184108",
+    "contactNo": "94705184108",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "252",
     "name": "Yasith",
-    "contactNo": "+94715656042",
+    "contactNo": "94715656042",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "253",
     "name": "Vishaka ",
-    "contactNo": "+94718648755",
+    "contactNo": "94718648755",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "254",
     "name": "Maheshi",
-    "contactNo": "+94743570828",
+    "contactNo": "94743570828",
     "award": "JESA 23 Crew",
     "category": "Executive Crew",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "255",
     "name": "Sithum",
-    "contactNo": "+94711104249",
+    "contactNo": "94711104249",
     "award": "JESA 23 Crew",
     "category": "Logistics & Decoration",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "256",
     "name": "Isuru",
-    "contactNo": "+94764439723",
+    "contactNo": "94764439723",
     "award": "JESA 23 Crew",
     "category": "Logistics & Decoration",
     "attended": ""
@@ -2051,20 +2052,21 @@
     "name": "",
     "contactNo": "",
     "award": "JESA 23 Crew",
-    "category": "Logistics & Decoration"
+    "category": "Logistics & Decoration",
+    "attended": ""
   },
   {
     "id": "258",
     "name": "Asmitha",
-    "contactNo": "+94773900639",
+    "contactNo": "94773900639",
     "award": "Performance Crew",
     "category": "Announcing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "259",
     "name": "Anjalee",
-    "contactNo": "+94761792777",
+    "contactNo": "94761792777",
     "award": "Performance Crew",
     "category": "Announcing",
     "attended": ""
@@ -2072,7 +2074,7 @@
   {
     "id": "260",
     "name": "Geeshan Mudhalige",
-    "contactNo": "+94772684384",
+    "contactNo": "94772684384",
     "award": "Performance Crew",
     "category": "Announcing",
     "attended": ""
@@ -2080,15 +2082,15 @@
   {
     "id": "261",
     "name": "Praveen",
-    "contactNo": "+94769394630",
+    "contactNo": "94769394630",
     "award": "Performance Crew",
     "category": "Announcing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "262",
     "name": "Amanda ",
-    "contactNo": "+94707204600",
+    "contactNo": "94707204600",
     "award": "Performance Crew",
     "category": "Band",
     "attended": ""
@@ -2096,7 +2098,7 @@
   {
     "id": "263",
     "name": "Dasith",
-    "contactNo": "+94717044856",
+    "contactNo": "94717044856",
     "award": "Performance Crew",
     "category": "Band",
     "attended": ""
@@ -2104,7 +2106,7 @@
   {
     "id": "264",
     "name": "Shenal",
-    "contactNo": "+94768359363",
+    "contactNo": "94768359363",
     "award": "Performance Crew",
     "category": "Band",
     "attended": ""
@@ -2112,7 +2114,7 @@
   {
     "id": "265",
     "name": "Udith",
-    "contactNo": "+94775428487",
+    "contactNo": "94775428487",
     "award": "Performance Crew",
     "category": "Band",
     "attended": ""
@@ -2120,7 +2122,7 @@
   {
     "id": "266",
     "name": "Haritha",
-    "contactNo": "+94716636795",
+    "contactNo": "94716636795",
     "award": "Performance Crew",
     "category": "Band",
     "attended": ""
@@ -2128,7 +2130,7 @@
   {
     "id": "267",
     "name": "Roshan",
-    "contactNo": "+94710425058",
+    "contactNo": "94710425058",
     "award": "Performance Crew",
     "category": "Band",
     "attended": ""
@@ -2136,7 +2138,7 @@
   {
     "id": "268",
     "name": "Kavinga",
-    "contactNo": "+94728246485",
+    "contactNo": "94728246485",
     "award": "Performance Crew",
     "category": "Band",
     "attended": ""
@@ -2144,137 +2146,185 @@
   {
     "id": "269",
     "name": "Anupa",
-    "contactNo": "+94729780302",
+    "contactNo": "94729780302",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "270",
     "name": "Tharindu",
-    "contactNo": "+94772864218",
+    "contactNo": "94772864218",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "271",
     "name": "Gihan",
-    "contactNo": "+94716571820",
+    "contactNo": "94716571820",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "272",
     "name": "Kavishka",
-    "contactNo": "+94786931813",
+    "contactNo": "94786931813",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "273",
     "name": "Hashan",
-    "contactNo": "+94740683450",
+    "contactNo": "94740683450",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "274",
     "name": "Themiya",
-    "contactNo": "+94753142725",
+    "contactNo": "94753142725",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "275",
     "name": "Anuja",
-    "contactNo": "+94714282765",
+    "contactNo": "94714282765",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "276",
     "name": "Thushani",
-    "contactNo": "+94762847883",
+    "contactNo": "94762847883",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "277",
     "name": "Amashi",
-    "contactNo": "+94701527332",
+    "contactNo": "94701527332",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "278",
     "name": "Venuri",
-    "contactNo": "+94764112703",
+    "contactNo": "94764112703",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "279",
     "name": "Udari",
-    "contactNo": "+94753786703",
+    "contactNo": "94753786703",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "280",
     "name": "Warsha",
-    "contactNo": "+94760775280",
+    "contactNo": "94760775280",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "281",
-    "name": "Dilrukshi",
-    "contactNo": "+94740671700",
+    "name": "Dulakshi",
+    "contactNo": "94740671700",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "282",
     "name": "Narthana",
-    "contactNo": "+94704032266",
+    "contactNo": "94704032266",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "283",
     "name": "Sisini",
-    "contactNo": "+94704124424",
+    "contactNo": "94704124424",
     "award": "Performance Crew",
     "category": "Dancing",
-    "attended": ""
+    "attended": "TRUE"
   },
   {
     "id": "284",
     "name": "Kanishka",
-    "contactNo": "+94758055895",
+    "contactNo": "94758055895",
+    "award": "Performance Crew",
+    "category": "Dancing",
+    "attended": "TRUE"
+  },
+  {
+    "id": "285",
+    "name": "Dasun",
+    "contactNo": "94760531055",
     "award": "Performance Crew",
     "category": "Dancing",
     "attended": ""
   },
   {
-    "id": "285",
-    "name": "Dasun",
-    "contactNo": "+94760531055",
-    "award": "Performance Crew",
-    "category": "Dancing",
-    "attended": ""
+    "id": "286",
+    "name": "nirmani perera",
+    "contactNo": "94705584472",
+    "award": "JESA 23 Coordinators",
+    "category": "Main Coordinators",
+    "attended": "TRUE"
+  },
+  {
+    "id": "287",
+    "name": "Chathuri Navodi",
+    "contactNo": "94726731110",
+    "award": "JESA 23 Crew",
+    "category": "Other",
+    "attended": "TRUE"
+  },
+  {
+    "id": "288",
+    "name": "Kavindu Kokila",
+    "contactNo": "94779364356",
+    "award": "JESA 23 Coordinators",
+    "category": "",
+    "attended": "TRUE"
+  },
+  {
+    "id": "289",
+    "name": "Supipi Gallage",
+    "contactNo": "94758587353",
+    "award": "JESA 23 Crew",
+    "category": "Other",
+    "attended": "TRUE"
+  },
+  {
+    "id": "290",
+    "name": "Malshan Chathuranga",
+    "contactNo": "94771815774",
+    "award": "JESA 23 Coordinators",
+    "category": "Other",
+    "attended": "TRUE"
+  },
+  {
+    "id": "291",
+    "name": "Dulmini Thathsarani",
+    "contactNo": "94710142829",
+    "award": "JESA 23 OC",
+    "category": "Other",
+    "attended": "TRUE"
   }
 ]
