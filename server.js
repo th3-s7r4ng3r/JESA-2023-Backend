@@ -19,6 +19,7 @@ const corsOptions = {
     "https://www.jesa.lk",
     "https://dev.jesa.lk",
     "http://localhost:5173",
+    "https://ambitious-flower-025187800.3.azurestaticapps.net",
   ],
 };
 app.use(cors(corsOptions));
